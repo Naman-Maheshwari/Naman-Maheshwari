@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-maheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="naman-maheshwari" /> </p>
 
-- 🌱 I’m currently seeking opportunities **to apply my skills and learn from industry experts**
+- 🌱 I’m passionate about Data Analytics, Data Visualization, Machine Learning, Deep Learning, and OpenCV. Experienced in Python, SQL, and Data Visualization tools like PowerBI along with coding languages JAVA and C++.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naman-Maheshwari](https://github.com/Naman-Maheshwari)
 
