@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Naman Maheshwari</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+<img align="right" alt="Coding" width="400" src="https://www.bing.com/th/id/OGC.03a4a5f034bf0bafa661fd8a8aabedc8?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2fdWesBcTLavkZuG35MI%2fgiphy.gif&ehk=CvqcTk91JdHpfdlmfjBFzMQG%2fF2pnaAqU9P1GWo0RFU%3d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-maheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="naman-maheshwari" /> </p>
 
