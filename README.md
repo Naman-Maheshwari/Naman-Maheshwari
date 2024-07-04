@@ -6,9 +6,6 @@
 
 - 🌱 I’m passionate about Data Analytics, Data Visualization, Machine Learning, Deep Learning, and OpenCV. Experienced in Python, SQL, and Data Visualization tools like PowerBI along with coding languages JAVA and C++.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Naman-Maheshwari](https://github.com/Naman-Maheshwari)
-
-- 📫 How to reach me **namanmah2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
