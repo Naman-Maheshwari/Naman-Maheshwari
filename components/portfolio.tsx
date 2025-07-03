@@ -262,7 +262,7 @@ export default function Portfolio() {
           </div>
           <div className="mt-12 flex justify-center">
             <a
-              href="https://drive.google.com/file/d/1R2Y6EDIlohheryjC9IlMypeEqFAKwS3A/view?usp=sharing"
+              href="https://drive.google.com/file/d/1TY0s98RcpCfnnLlD_3-uk-Ao_ofe8VaY/view?usp=drivesdk"
               target="_blank"
               rel="noopener noreferrer"
             >
